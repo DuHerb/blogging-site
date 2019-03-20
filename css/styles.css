@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+.about-me {
+  font-style: italic;
+  margin: 30px 10px;
+}
+
+.blog-posts {
+  background-color: yellow;
+  margin: 20px 20%;
+  border: 1px solid black;
+}
+
+.blog-posts h2 {
+  color: red;
+}
+
+.important {
+  font-weight: bold;
+}
